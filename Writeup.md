@@ -17,12 +17,17 @@ A retail company believes that customer acquisition costs five times more than c
 5. Create the monetary function that takes the total spending price of a customer, and return the monetary level
 6. Merge the three functions above into a new dataframe, and use elbow method to find the best number of kmean clusters 
 <img width="361" alt="Screen Shot 2022-09-28 at 7 12 38 PM" src="https://user-images.githubusercontent.com/63031028/192923267-6d949500-a9bb-46f0-b232-5b32c4a4910b.png">
+
 7. Four is the optimize number, so will use Kmeans to divide the customers into four groups
+
 8. Evaluate the cluster center to find out which group is the VIP 
 9. Cluster 2 is the VIP cluster, and will explore what products the VIP class buy the most 
+
 10. Find out that white hanging heart t-light holder is the best selling product in our vip class, show the top items to the marketing team, and let them decide what to do next
+<img width="795" alt="Screen Shot 2022-09-30 at 7 28 22 PM" src="https://user-images.githubusercontent.com/63031028/193379608-9414a174-92a8-4f79-9bc2-d5241fcba8c2.png">
 
 11. Create a cohort pivot table to see the retention rate over months 
+<img width="796" alt="Screen Shot 2022-09-30 at 7 30 27 PM" src="https://user-images.githubusercontent.com/63031028/193379655-baf2a30d-73a4-430f-86b5-d07548f88a78.png">
 
 12. Use mlxtend to find related items for cross-selling and will recommend the related product to the customers 
 
