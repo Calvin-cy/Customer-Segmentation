@@ -21,17 +21,20 @@ A retail company believes that customer acquisition costs five times more than c
 8. Evaluate the cluster center to find out which group is the VIP 
 9. Cluster 2 is the VIP cluster, and will explore what products the VIP class buy the most 
 10. Find out that white hanging heart t-light holder is the best selling product in our vip class, show the top items to the marketing team, and let them decide what to do next
-![image](https://user-images.githubusercontent.com/63031028/193169385-f76f0ba8-3031-45f4-a2dc-9d8107f7f21e.png)
+
 11. Create a cohort pivot table to see the retention rate over months 
-![image](https://user-images.githubusercontent.com/63031028/193354541-6c6d4038-e970-493c-82af-ce4ae68c851c.png)
+
 12. Use mlxtend to find related items for cross-selling and will recommend the related product to the customers 
+
 ## Tools
 - Numpy, Pandas : Data engineering, Exploratory Data Analysis
 - Matplotlib, Seaborn : Data visualizations 
 - Scikit learn - Clustering Algorithm
 - Mlxtend - Basket Analysis
+
 ## Communication 
 Identifying the VIP class can make the company knows whom they should be foucsing on when doing marketing campaign. The bar chart of the best products sold in the VIP class also gives us information on what products should we be prioritizing on when doing promotions. The cohort pivot table shows us the retention rate over month, so the marketing team can do A/B testing. Finally, the basket analysis I did is for cross-selling. So, the idea is that when a customer buys a product, we will recommend a related product to them to expand our profits. 
+
 ## Future steps
 1. Discuss with the marketing team on what and when should the company do promotions 
 2. Dig into the VIP group to see their buying habits 
